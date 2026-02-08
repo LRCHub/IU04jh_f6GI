@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ドナーソング",
+  "base_artist": "れるりり",
+  "createdAt": "2026-02-08T10:13:59.468082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Donor Song (English Cover )【JubyPhonic】ドナーソング",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/01_Donor_Song_(English_Cover_)【JubyPhonic】ドナーソング_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドナーソング",
+      "artist": "rerulili",
+      "has_synced": true,
+      "path": "select/02_ドナーソング_rerulili.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドナーソング",
+      "artist": "れるりり×もじゃ",
+      "has_synced": false,
+      "path": "select/pl_01_ドナーソング_れるりり×もじゃ.txt"
+    }
+  ]
+}
